@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naushad-ansarintiw&show_icons=true&locale=en&layout=compact" alt="i-m-paras" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naushad-ansarintiw&show_icons=true&locale=en" alt="i-m-paras" /></p>
+
